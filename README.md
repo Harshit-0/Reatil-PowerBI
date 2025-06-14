@@ -66,7 +66,7 @@ Dataset used contains ~1M records across 6 tables (normalized star schema):
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Harshit-0/Reatil-PowerBI/refs/heads/main/Dashboard.png)
 
 ---
 
